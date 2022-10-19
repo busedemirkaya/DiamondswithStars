@@ -1,2 +1,2 @@
-# DiamondswithStarts
+# DiamondswithStars
 make dimonds using stars
